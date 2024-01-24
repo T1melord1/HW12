@@ -6,4 +6,6 @@ public class Test3 {
     public static void main(String[] args) {
         Test1 test1 = new Test1();
     }
+    Test3 test3 = new Test3();
+
 }
